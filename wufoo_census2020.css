@@ -18,13 +18,22 @@ form.wufoo {
   float:none!important;
   background-color:#205493!important;
   border:#205493!important;
-  font-family: proxima-nova, sans-serif;!important;
+  font-family: 'proxima-nova', sans-serif;!important;
   font-size:18px!important;
   font-weight:700!important;
   text-transform:uppercase;
   letter-spacing:1px;
   }
 
+.redesigned-theme-2018 input.btTxt:hover{
+  background-color:#00965e!important;
+  border:#00965e!important;
+  }
+
 .redesigned-theme-2018 .likert caption, .redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc {
   padding:15px 0!important;
+  }
+
+.redesigned-theme-2018 .wufoo li.focused span, .redesigned-theme-2018 .wufoo li div span.choice__text, .redesigned-theme-2018 .wufoo li span, .redesigned-theme-2018 .wufoo li span label, .redesigned-theme-2018 .wufoo ul li span.symbol, .redesigned-theme-2018 li div span.choice__qty, .redesigned-theme-2018 li div span.choice__qty span {
+  color:#222222;
   }
