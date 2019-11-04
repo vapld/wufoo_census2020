@@ -19,6 +19,12 @@ form.wufoo {
   background-color:#205493!important;
   border:#205493!important;
   font-family: proxima-nova, sans-serif;!important;
-  font-size:16px!important;
+  font-size:18px!important;
   font-weight:700!important;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  }
+
+.redesigned-theme-2018 .likert caption, .redesigned-theme-2018 .wufoo label.desc, .redesigned-theme-2018 .wufoo legend.desc {
+  padding:15px 0!important;
   }
