@@ -1,0 +1,24 @@
+form.wufoo {
+  margin:50px!important;
+  }
+
+.wufoo li {
+  width:100%!important;
+  }
+
+.redesigned-theme-2018 #logo, .redesigned-theme-2018 #nav2.logo {
+  border-bottom:none!important;
+  }
+
+.redesigned-theme-2018 .wufoo .info, .redesigned-theme-2018 .wufoo .paging-context {
+  border-bottom: 1px dotted #cccccc!important;
+  }
+
+.redesigned-theme-2018 input.btTxt{
+  float:none!important;
+  background-color:#205493!important;
+  border:#205493!important;
+  font-family: proxima-nova, sans-serif;!important;
+  font-size:16px!important;
+  font-weight:700!important;
+  }
